@@ -3,7 +3,7 @@ Hello! I am a doctoral student in the Linguistics department at the University o
 #### Contact:
 # Skills
 * ELAN<br>
-* Praat
+* Praat<br>
 ***
 # Interests
 My research interests are in the 
