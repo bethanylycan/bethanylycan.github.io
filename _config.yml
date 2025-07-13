@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme
 minimal:
   color-scheme: auto-default-dark
 title: Bethany Lycan
