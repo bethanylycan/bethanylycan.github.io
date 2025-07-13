@@ -1,14 +1,16 @@
 # About
 Hello! I am a doctoral student in the Linguistics department at the University of New Mexico.
 #### Contact:
+
 # Skills
 * ELAN<br>
 * Praat<br>
-***
+
 # Interests
 My research interests are in the 
 
 syntax; typology; language change; Indigenous languages of North and South America; language revitalization
+
 # Current projects
 ### Indigenous Child Language Research Center at UNM
 I have been a research/project/graduate assistant for the [ICLRC] at the University of New Mexico since 2022.
