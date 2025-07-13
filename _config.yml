@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
+minimal:
+  skin: dark
 title: Bethany Lycan's homepage
 description: Bookmark this to keep an eye on my project updates!
